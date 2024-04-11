@@ -4,4 +4,7 @@
    <default remote="origin" sync-j="4" revision="master"/>
    <project name="sudharshan" path="project1"/>
    <project name="sai" path="project2"/>
+   <project name="Balu" path="Balu"/>
+   <project name="kamesh" path="kamesh"/>
+   <project name="Ramana" path="Ramana"/>
 </manifest>
