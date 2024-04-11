@@ -2,9 +2,9 @@
 <manifest>
    <remote name="origin" fetch="https://github.com/Radhakrishnaaaaa"/>
    <default remote="origin" sync-j="4" revision="master"/>
-   <project name="sudharshan" path="project1"/>
-   <project name="sai" path="project2"/>
-   <project name="Balu" path="Balu"/>
-   <project name="kamesh" path="kamesh"/>
-   <project name="Ramana" path="Ramana"/>
+   <project name="sudharshan" path="sudharshan" revision="0bf09ab8ef65ed33859874ba516a75157a895ba6"/>
+   <project name="sai" path="sai" revision="d63d155097e0ded1c9f0f612cee942b77e8c181f"/>
+   <project name="Balu" path="Balu" revision="489b106a5511be96cd3f512ffc253622a1296cd8"/>
+   <project name="kamesh" path="kamesh" revision="99c4f88efe744b250fd676042fce566f85ec7234"/>
+   <project name="Ramana" path="Ramana" revision="b7b3a16dd36bed7c0415cc633bc8ac9a06f1942a"/>
 </manifest>
