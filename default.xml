@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?/>
 <manifest>
+
    <remote fetch="https://github.com/Radhakrishnaaaaa" name="origin"/>
 
    <default remote="origin" sync-j="4" revision="master"/>
 
-   <project name="repo name" path="folder"/>
-   <project name="repo name" path="folder"/>
+   <project name="sudharshan" path="project1"/>
+   <project name="sai" path="project2"/>
 
 </manifest>
